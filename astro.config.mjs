@@ -6,5 +6,5 @@ import tailwind from '@astrojs/tailwind';
 export default defineConfig({
 	integrations: [mdx(), tailwind()],
 	site: 'https://raisilhamn.github.io',
-	base: '/astro-tailwind',
+	base: '/astro-tailwind'
 });
