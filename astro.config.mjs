@@ -8,3 +8,4 @@ export default defineConfig({
 	site: 'https://raisilhamn.github.io',
 	base: '/astro-tailwind'
 });
+
